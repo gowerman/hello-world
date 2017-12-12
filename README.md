@@ -1,2 +1,3 @@
 # hello-world
-first project by following the tutorial 
+
+gowerman here, I am working on CAE softerware development.
